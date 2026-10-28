@@ -42,7 +42,6 @@ Each layer queries a separate vector index. The top-3 most relevant chunks from 
 
 ## Screenshots
 
-*(Add 2–3 screenshots here: the main interface, the retrieval transparency dashboard showing cosine similarity scores, and a sample generated scene with the reviewer feedback.)*
 
 ---
 
